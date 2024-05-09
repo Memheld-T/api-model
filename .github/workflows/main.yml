@@ -1,4 +1,4 @@
-_name: ML Model Deployment
+name: ML Model Deployment
 
 on: [push]
 
